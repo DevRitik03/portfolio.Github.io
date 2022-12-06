@@ -1,0 +1,118 @@
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\myportfolio_web.dll.config
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\myportfolio_web.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\myportfolio_web.pdb
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\csc.exe
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\csc.exe.config
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\csc.rsp
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\csi.exe
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\csi.exe.config
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\csi.rsp
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\System.AppContext.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\System.Console.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\System.IO.Compression.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\System.Net.Http.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\System.ValueTuple.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\vbc.exe
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\vbc.exe.config
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\vbc.rsp
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\VBCSCompiler.exe
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\obj\Debug\myportfolio_web.csproj.AssemblyReference.cache
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\obj\Debug\myportfolio_web.csproj.CoreCompileInputs.cache
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\obj\Debug\myportfolio_web.csproj.CopyComplete
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\obj\Debug\myportfolio_web.dll
+C:\Users\ravim\OneDrive\Desktop\myportfolio_web\myportfolio_web\myportfolio_web\obj\Debug\myportfolio_web.pdb
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\myportfolio_web.dll.config
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\myportfolio_web.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\myportfolio_web.pdb
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\csc.exe
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\csc.exe.config
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\csc.rsp
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\csi.exe
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\csi.exe.config
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\csi.rsp
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\System.AppContext.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\System.Collections.Immutable.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\System.Console.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\System.Globalization.Calendars.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\System.IO.Compression.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\System.IO.FileSystem.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\System.Net.Http.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\System.Net.Sockets.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\System.Reflection.Metadata.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\System.ValueTuple.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\System.Xml.XPath.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\vbc.exe
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\vbc.exe.config
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\vbc.rsp
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\VBCSCompiler.exe
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\roslyn\VBCSCompiler.exe.config
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\obj\Debug\myportfolio_web.csproj.AssemblyReference.cache
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\obj\Debug\myportfolio_web.csproj.CoreCompileInputs.cache
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\obj\Debug\myportfolio_web.csproj.CopyComplete
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\obj\Debug\myportfolio_web.dll
+D:\ice cream\myportfolio_web.rar12123\myportfolio_web\myportfolio_web\obj\Debug\myportfolio_web.pdb

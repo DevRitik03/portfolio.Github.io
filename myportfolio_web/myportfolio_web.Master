@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="myportfolio_web.Master.cs" Inherits="myportfolio_web.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+     <!-- FAVICON -->
+    <link rel="icon" type="image/png" href="assets/images/favicon_TT.png">
+
+    
+     <%--font awesome css--%>
+    <link href="fontawesome/css/all.css" rel="stylesheet" />
+
+    <%--bootstrap css--%>
+    <link href="bootstrap/css/all.min.css" rel="stylesheet" />
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+    <%--bootstrap js--%>
+    <script src="bootstrap/js/popper.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+
+    <%--custom css--%>
+    <link href="custom/css/style.css" rel="stylesheet" />
+
+    <%--custom js--%>
+    <script src="custom/js/script.js"></script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+     
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+     
+</body>
+</html>
